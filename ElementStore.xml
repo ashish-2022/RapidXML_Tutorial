@@ -1,0 +1,11 @@
+<ElementStore>
+<Element type="Type1" model="Model1">
+<SubElement category="CAT1">This is element 1</SubElement>
+</Element>
+<Element type="Type2" model="Model2">
+<SubElement category="CAT2">This is element 2</SubElement>
+</Element>
+<Element type="Type3" model="Model3">
+<SubElement category="CAT3">This is element 3</SubElement>
+</Element>
+</ElementStore>
